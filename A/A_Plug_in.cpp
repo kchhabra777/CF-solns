@@ -6,6 +6,8 @@ using namespace std;
 #define all(v) (v).begin(), (v).end()
 #define pb push_back
 
+// problem no:- 81 A
+
 void solve() {
     // Your code
     string s;
